@@ -1,9 +1,11 @@
 === NOUVEAU Admin Menus ===
 Contributors: veraxus
 Tags: admin, greeting, developer, nouveau
+Requires PHP: 5.3
 Requires at least: 3.6
-Tested up to: 3.8
-Stable tag: 0.1
+Tested up to: 4.2
+Stable tag: 0.2
+GitHub Plugin URI: veraxus/nv-example-admin-settings
 
 Customize settings using the settings API & customize WordPress Help messages. This is a temporary project as these
 features were recently removed from the NOUVEAU theme core and need to be organized.
